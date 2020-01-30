@@ -7,7 +7,7 @@ TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 TARGET_BOARD_INFO_FILE := $(LOCAL_PATH)/board-info.txt
 
 # Kernel
-TARGET_KERNEL_CONFIG := cm_nobleltetmo_defconfig
+TARGET_KERNEL_CONFIG := cm_nobleltetmo_ubp_defconfig
 
 # RIL
 BOARD_MODEM_TYPE := ss333
